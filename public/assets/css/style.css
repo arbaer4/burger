@@ -1,11 +1,18 @@
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2186059.jpg");
+  color: white; 
+}
+
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    background: #c49e6e;
+    width: 500px;
   }
   
   .label {
     font-weight: bold;
+    color: white; 
   }
   
   .create-update-form {
